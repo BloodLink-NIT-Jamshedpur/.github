@@ -4,15 +4,30 @@
 
 Welcome to BloodLink! We're on a mission to increase blood donation frequency and cultivate a culture of consistent participation. With innovative solutions we aim to shape a resilient blood donation ecosystem. 
 
+## Google Resources used:
+1.Gemini to build ChatBot.
+
+2.Google Maps to locate nearest blood bank.
+
+3.Firebase for registration OF Blood donors and Blood banks.
+
+
+### DEMO- https://cheerful-gaufre-eafe54.netlify.app/
+
+![photogrid photocollagemaker photoeditor squarepic_2024223224845781](https://github.com/BloodLink-NIT-Jamshedpur/.github/assets/147289069/794a81de-7191-4d97-bed6-5cdfdc3c4822)
+
 # Vision:
 
-1. Increase Donation Frequency: Inspire regular blood donations to ensure a stable and sustainable blood supply.
+1. **Increase Donation Frequency**: Inspire regular blood donations to ensure a stable and sustainable blood supply.
 
-2. Simplify Blood Bank Location: Effortlessly locate nearby blood banks for timely responses in emergencies and encourage voluntary donations.
+2.  **Simplify Blood Bank Location**: Effortlessly locate nearby blood banks for timely responses in emergencies and encourage voluntary donations.
 
-3. Unified Blood Bank Platform: Provide a centralized system for national blood banks to streamline operations and enhance coordination.
+3.  **Unified Blood Bank Platform**: Provide a centralized system for national blood banks to streamline operations and enhance coordination.
 
-4. Digital Awareness Campaigns: Leverage technology for awareness, dispelling myths, and promoting the life-saving impact of regular blood contributions.
+4.  **Digital Awareness Campaigns**: Leverage technology for awareness, dispelling myths, and promoting the life-saving impact of regular blood contributions.
+
+   ![photogrid photocollagemaker photoeditor squarepic_202422322511383](https://github.com/BloodLink-NIT-Jamshedpur/.github/assets/147289069/d037ae36-e145-4177-8276-cbe55f1c8b1d)
+
 
 # **SERVICE**:
 ## 1.**POTENTIAL BLOOD DONORS**:
@@ -23,11 +38,17 @@ Locate the nearest blood bank swiftly using Google Maps. Receive real-time updat
 
 ## 3.Unified Registration of Blood Donors and Blood Banks using Firebase:
 Join our platform as a blood bank or donor to create an organized network. Dynamic identification of potential donors and targeted reminders ensure a resilient blood donation ecosystem, eliminating shortages and inspiring community participation.
+![Uploading photogrid.photocollagemaker.photoeditor.squarepic_202422322511383.png…]()
+![Uploading photogrid.photocollagemaker.photoeditor.squarepic_202422322511383.png…]()
+
 
 # UPCOMING ADDITIONS TO THE EXISTING PROJECT:
-1.Deploying Machine Learning Model via Flask and the with the Blood Banks database send reminders to potential donors automatically rather than manually.
+1.Deploying Machine Learning Model via Flask and the with the help of Blood Banks database send reminders to potential donors automatically rather when the quantity of a blood group falls below a certain level.
 
 2.A section related to articles related to how blood donation has helped saving lives which will encourage new generation to not hesitate to donate blood. 
+
+
+
 
 
 <!--
