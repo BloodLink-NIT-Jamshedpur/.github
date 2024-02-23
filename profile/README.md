@@ -38,8 +38,10 @@ Locate the nearest blood bank swiftly using Google Maps. Receive real-time updat
 
 ## 3.Unified Registration of Blood Donors and Blood Banks using Firebase:
 Join our platform as a blood bank or donor to create an organized network. Dynamic identification of potential donors and targeted reminders ensure a resilient blood donation ecosystem, eliminating shortages and inspiring community participation.
-![Uploading photogrid.photocollagemaker.photoeditor.squarepic_202422322511383.png…]()
-![Uploading photogrid.photocollagemaker.photoeditor.squarepic_202422322511383.png…]()
+![photogrid photocollagemaker photoeditor squarepic_2024223225657819](https://github.com/BloodLink-NIT-Jamshedpur/.github/assets/147289069/4d04fcdc-fcbc-40e7-b32c-55487970e25b)
+
+## 4.ChatBot built using Gemini- 
+The ChatBot is always available to solve queries from the user.
 
 
 # UPCOMING ADDITIONS TO THE EXISTING PROJECT:
@@ -47,6 +49,7 @@ Join our platform as a blood bank or donor to create an organized network. Dynam
 
 2.A section related to articles related to how blood donation has helped saving lives which will encourage new generation to not hesitate to donate blood. 
 
+![photogrid photocollagemaker photoeditor squarepic_202422323137749](https://github.com/BloodLink-NIT-Jamshedpur/.github/assets/147289069/15fa2730-0931-45dc-b1fd-d762ccb510d9)
 
 
 
