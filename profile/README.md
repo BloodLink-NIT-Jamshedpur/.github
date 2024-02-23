@@ -1,4 +1,4 @@
-# GDSC Solutions Challenge 2024 - _Team BloodLink_
+# GDSC Solutions Challenge 2024 - _Team BloodLink_ 
 ## BloodLink: Once a blood donor always a lifesaver.
 ### Solving United Nations SDG 3: Good Health and well-being
 
@@ -16,7 +16,7 @@ Welcome to BloodLink! We're on a mission to increase blood donation frequency an
 
 # **SERVICE**:
 ## 1.**POTENTIAL BLOOD DONORS**:
-Our system, powered by Machine Learning, proactively identifies potential donors when specific blood group levels fall below a critical mark. Automated reminders ensure targeted outreach, encouraging regular blood donations and eliminating shortages.
+Our system, powered by Machine Learning, proactively identifies potential donors when specific blood group levels fall below a critical mark at blood bank. Automated reminders ensure targeted outreach, encouraging regular blood donations and eliminating shortages. This cycle of donation will eradicate shortage of blood.
 
 ## 2. **LOCATE NEAREST BLOOD BANK**:
 Locate the nearest blood bank swiftly using Google Maps. Receive real-time updates on critical blood group shortages, facilitating efficient responses during emergencies and voluntary donations.
@@ -26,6 +26,7 @@ Join our platform as a blood bank or donor to create an organized network. Dynam
 
 # UPCOMING ADDITIONS TO THE EXISTING PROJECT:
 1.Deploying Machine Learning Model via Flask and the with the Blood Banks database send reminders to potential donors automatically rather than manually.
+
 2.A section related to articles related to how blood donation has helped saving lives which will encourage new generation to not hesitate to donate blood. 
 
 
